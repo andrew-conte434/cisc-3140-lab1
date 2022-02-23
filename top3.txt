@@ -1,0 +1,112 @@
+
+TOP 3 MODELS FROM Acura
+4,113,2012,Acura,Tsx sportwagon,110
+6,112,2008,Acura,TL,104
+10,114,2015,Acura,TLX,96
+
+TOP 3 MODELS FROM Audi
+3,15,2014,Audi,S4,114
+80,18,2015,Audi,S3,36
+108,116,2008,Audi,A4,24
+
+TOP 3 MODELS FROM Benz
+101,98,2012,Benz,C63,24
+
+TOP 3 MODELS FROM Bmw
+113,2,2016,Bmw,M2,22
+114,172,2014,Bmw,4,22
+149,28,1995,Bmw,318xi,8
+
+TOP 3 MODELS FROM Chevy
+35,218,2010,Chevy,Camaro,60
+59,170,2014,Chevy,Cruze,46
+167,0,2015,Chevy,Camaro,0
+
+TOP 3 MODELS FROM Chrystler
+11,216,2007,Chrystler,300,92
+
+TOP 3 MODELS FROM Civic
+84,99,2014,Civic,Si,34
+161,72,2016,Civic,Si,4
+
+TOP 3 MODELS FROM Civic coupe
+60,104,2014,Civic coupe,Si,46
+
+TOP 3 MODELS FROM Dodge
+148,42,2001,Dodge,Viper,8
+
+TOP 3 MODELS FROM Ford
+43,137,2017,Ford,Focus rs,54
+95,120,2014,Ford,Focus st,28
+99,219,2016,Ford,Focus rs,26
+
+TOP 3 MODELS FROM Honda
+5,83,2014,Honda,Accord,106
+7,65,2009,Honda,Fit,100
+9,31,2007,Honda,Fit,96
+
+TOP 3 MODELS FROM Hyundai
+31,38,2017,Hyundai,Elantra sport,62
+32,30,2012,Hyundai,Celoster,62
+90,92,2017,Hyundai,Elantra sport,30
+
+TOP 3 MODELS FROM Infiniti
+1,128,2010,Infiniti,G37,122
+131,95,2004,Infiniti,G35,12
+
+TOP 3 MODELS FROM Infinity
+69,122,2011,Infinity,M37s,40
+79,20,2009,Infinity,G37,36
+
+TOP 3 MODELS FROM Jeep
+2,124,2015,Jeep,Wrangler,118
+
+TOP 3 MODELS FROM Lexus
+33,123,2006,Lexus,Sc430,62
+78,222,2015,Lexus,Is250,36
+139,190,1995,Lexus,Sc300,10
+
+TOP 3 MODELS FROM Mazda
+56,52,2007,Mazda,Speed 3,46
+77,78,2015,Mazda,6,36
+105,141,1993,Mazda,Miata,24
+
+TOP 3 MODELS FROM Mercedes
+22,25,2012,Mercedes,C250,74
+25,84,2012,Mercedes,Cl63amg,68
+88,17,2016,Mercedes,C43,32
+
+TOP 3 MODELS FROM Mitsu
+8,91,2010,Mitsu,Lancer,96
+62,140,1995,Mitsu,Evo8,44
+82,176,2014,Mitsu,Lancer,36
+
+TOP 3 MODELS FROM Mitsub
+76,19,2001,Mitsub,Evo7,38
+
+TOP 3 MODELS FROM Nissan
+12,228,2010,Nissan,370,88
+17,153,2011,Nissan,370,80
+20,161,2012,Nissan,370z,78
+
+TOP 3 MODELS FROM Scion
+21,57,2015,Scion,Frs,76
+119,235,2013,Scion,Frs,18
+
+TOP 3 MODELS FROM Subaru
+24,36,2016,Subaru,WRX,70
+29,33,2015,Subaru,Sti,64
+37,21,2009,Subaru,WRX,58
+
+TOP 3 MODELS FROM Toyota
+44,110,2011,Toyota,Camry,54
+46,142,1993,Toyota,Supra,52
+49,43,2011,Toyota,4 Runner,50
+
+TOP 3 MODELS FROM Volkswagen
+15,126,2010,Volkswagen,Eos,86
+19,180,2011,Volkswagen,Gti,78
+45,156,2014,Volkswagen,Gli,52
+
+TOP 3 MODELS FROM Volvo
+115,100,2006,Volvo,S60r,22
