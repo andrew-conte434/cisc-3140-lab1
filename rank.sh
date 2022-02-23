@@ -5,5 +5,5 @@ BEGIN {
 }
 {
 	rank = NR
-	printf ("%d,%-15s\n", rank, $0)
+	printf ("%d,%s\n", rank, $0)
 }
